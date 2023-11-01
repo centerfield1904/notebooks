@@ -1,3 +1,8 @@
+# Custom ignores
+.ipynb_checkpoints/
+finance/
+kaggle/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
